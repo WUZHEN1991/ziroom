@@ -3,7 +3,7 @@ beautifulsoup4==4.6.0
 better-exceptions==0.1.7
 Bottleneck==1.2.1
 bs4==0.0.1
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 click==6.7
 colorama==0.3.9
